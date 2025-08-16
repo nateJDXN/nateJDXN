@@ -11,3 +11,7 @@
 
 <h3 align="left">Find me here!</h3>
 <a href="https://linkedin.com/in/nat3dixon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nat3dixon" height="30" width="40" /></a>
+
+<br>
+<br>
+<a href="https://nathandixon.dev">nathandixon.dev</a>
