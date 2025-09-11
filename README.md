@@ -20,18 +20,15 @@
 
 <!--- START --->
 
-### Tests completed: 3
-
-----------------------
-
 <div align="center">
+### Tests completed: 8
 
 ### Personal Bests:
 
 | | 15 seconds   |      30 seconds      |  60 seconds |
 |:------          |:----------:|:-------------:|------:|
-|**WPM**            |115.91|94.4|96.4|
-|**Accuracy**       |100%|97.53%|97.01%|
+|**WPM**            |115.91|102.39|96.4|
+|**Accuracy**       |100%|95.36%|97.01%|
 |**Difficulty**     |0|0|0|
 
 </div>
