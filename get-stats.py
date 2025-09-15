@@ -58,7 +58,7 @@ pb60 = get_personal_best('time', '60', '60s')
 # Create new stats table based on updated stats
 new_content = f"""
 <div align="center">
-### Tests completed: {completed_tests}
+Tests completed: {completed_tests}
 
 ### Personal Bests:
 
@@ -67,6 +67,8 @@ new_content = f"""
 |**WPM**            |{pb15['wpm']}|{pb30['wpm']}|{pb60['wpm']}|
 |**Accuracy**       |{pb15['accuracy']}%|{pb30['accuracy']}%|{pb60['accuracy']}%|
 |**Difficulty**     |0|0|0|
+
+(Check out how I made this tool <a href="https://github.com/nateJDXN/monkeytype-stats">here</a>!)
 
 </div>
 """
