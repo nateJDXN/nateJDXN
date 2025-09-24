@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nate! 👋</h1>
 <h3 align="center">I am a fourth year Computer Science major at The George Washington University</h3>
 
-- 🔭 I'm currently researching the impact of implementing TinyML in distributed systems. Our research team wants to make AI tools more accessible, secure, and sustainable! 🌱 More information coming soon!
+- 🔭 I'm currently researching the financial, security, and environmental impact of localized data collection and analysis systems compared to relying on commercial cloud solutions. Our research team wants to make emerging technologies more accessible, secure, and sustainable! 🌱 More information coming soon!
 
 - 🪐 I enjoy working with **Java and Python** and I am learning about **Kubernetes, distributed systems, and NAS systems**. 
 
