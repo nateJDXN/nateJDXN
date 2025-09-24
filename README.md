@@ -21,7 +21,7 @@
 <!--- START --->
 
 <div align="center">
-### Tests completed: 14
+Tests completed: 19
 
 ### Personal Bests:
 
@@ -30,6 +30,8 @@
 |**WPM**            |115.91|102.39|96.4|
 |**Accuracy**       |100%|95.36%|97.01%|
 |**Difficulty**     |0|0|0|
+
+(Check out how I made this tool <a href="https://github.com/nateJDXN/monkeytype-stats">here</a>!)
 
 </div>
 
