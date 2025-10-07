@@ -21,14 +21,14 @@
 <!--- START --->
 
 <div align="center">
-Tests completed: 25
+Tests completed: 26
 
 ### Personal Bests:
 
 | | 15 seconds   |      30 seconds      |  60 seconds |
 |:------          |:----------:|:-------------:|------:|
-|**WPM**            |115.91|108.4|96.4|
-|**Accuracy**       |100%|95.12%|97.01%|
+|**WPM**            |115.91|108.4|99.4|
+|**Accuracy**       |100%|95.12%|96.37%|
 |**Difficulty**     |0|0|0|
 
 (Check out how I made this tool <a href="https://github.com/nateJDXN/monkeytype-stats">here</a>!)
