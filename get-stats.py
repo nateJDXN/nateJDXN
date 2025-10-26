@@ -66,7 +66,6 @@ Tests completed: {completed_tests}
 |:------          |:----------:|:-------------:|------:|
 |**WPM**            |{pb15['wpm']}|{pb30['wpm']}|{pb60['wpm']}|
 |**Accuracy**       |{pb15['accuracy']}%|{pb30['accuracy']}%|{pb60['accuracy']}%|
-|**Difficulty**     |0|0|0|
 
 (Check out how I made this tool <a href="https://github.com/nateJDXN/monkeytype-stats">here</a>!)
 
