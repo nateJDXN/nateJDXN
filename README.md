@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nate! 👋</h1>
 <h3 align="center">I am a fourth year Computer Science major at The George Washington University</h3>
 
-- 🔭 I'm currently researching the financial, security, and environmental impact of localized data collection and analysis systems compared to relying on commercial cloud solutions. Our research team wants to make emerging technologies more accessible, secure, and sustainable! 🌱 More information coming soon!
+- 🔭 I'm currently researching the financial, security, and environmental impact of localized data collection and analysis systems compared to commercial cloud solutions. Our research team wants to make emerging technologies more accessible, secure, and sustainable! 🌱 More information coming soon!
 
 - 🪐 I enjoy working with **Java and Python** and I am learning about **Kubernetes, distributed systems, and NAS systems**. 
 
@@ -21,14 +21,14 @@
 <!--- START --->
 
 <div align="center">
-Tests completed: 19
+Tests completed: 34
 
 ### Personal Bests:
 
 | | 15 seconds   |      30 seconds      |  60 seconds |
 |:------          |:----------:|:-------------:|------:|
-|**WPM**            |115.91|102.39|96.4|
-|**Accuracy**       |100%|95.36%|97.01%|
+|**WPM**            |115.91|108.4|99.4|
+|**Accuracy**       |100%|95.12%|96.37%|
 |**Difficulty**     |0|0|0|
 
 (Check out how I made this tool <a href="https://github.com/nateJDXN/monkeytype-stats">here</a>!)
