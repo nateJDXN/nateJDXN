@@ -29,7 +29,6 @@ Tests completed: 34
 |:------          |:----------:|:-------------:|------:|
 |**WPM**            |115.91|108.4|99.4|
 |**Accuracy**       |100%|95.12%|96.37%|
-|**Difficulty**     |0|0|0|
 
 (Check out how I made this tool <a href="https://github.com/nateJDXN/monkeytype-stats">here</a>!)
 
