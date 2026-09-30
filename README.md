@@ -21,7 +21,7 @@
 <!--- START --->
 
 <div align="center">
-Tests completed: 252
+Tests completed: 253
 
 ### Personal Bests:
 
